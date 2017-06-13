@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("大神你好，大神加油！！！");
+            MessageBox.Show(" 大神你好，大神加油！！！");
         }
     }
 }
