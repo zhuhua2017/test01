@@ -21,5 +21,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show(" 大神你好，大神加油！！！");
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
