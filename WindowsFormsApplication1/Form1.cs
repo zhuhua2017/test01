@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("你改这11111里面的字，11111111");
+            MessageBox.Show("你改这11111里面的字，2222222");
         }
     }
 }
